@@ -101,7 +101,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+![nuisance](https://github.com/lloyd4565/Statics/blob/master/generated/languages.svg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
