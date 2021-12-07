@@ -8,16 +8,16 @@
 ##
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/lloyd4565">
+    <img src="https://komarev.com/ghpvc/?username=lloyd4565&label=Profile%20views&color=blue&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy?tab=stars">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
+  <a href="https://github.com/lloyd4565?tab=stars">
+    <img src="https://img.shields.io/github/stars/lloyd4565?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/lloyd4565?tab=followers">
+    <img src="https://img.shields.io/github/followers/lloyd4565?color=bluelabel=Followers&style=plastic">
 
   </a>
 </p>
